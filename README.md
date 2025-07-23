@@ -6,7 +6,7 @@ This repository contains a complete AI evaluations course built around a Recipe 
 
 1. **Clone & Setup**
    ```bash
-   git clone https://github.com/ai-evals-course/recipe-chatbot.git
+   git clone https://github.com/jsoma/recipe-chatbot.git
    cd recipe-chatbot
    python -m venv .venv
    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
